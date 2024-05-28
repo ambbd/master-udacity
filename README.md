@@ -1,5 +1,5 @@
 # master-udacity
-This repository will hold projects related to the Udacity Nanodegree program.
+This repository holds project related tasks as part of the Udacity Nanodegree program.
 
 I uploaded the following three projects:
 
